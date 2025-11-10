@@ -3,9 +3,9 @@
 ### What I practiced   
 - Understanding the difference between Git (tool) and GitHub (platform).
 - Understanding how merge types (fast-forward vs recursive) work and how conflicts are resolved.
-- Visualizing branches and commits with `git log --oneline --graph --all`.
+- Visualizing branches and commits 
 - Explored how rebase, stash, and cherry-pick are used to keep history clean and flexible
-- Comparing `reset` vs `revert` and knowing when each is safe to use.
+- Comparing reset vs revert and knowing when each is safe to use.
 - Understanding collaborative workflows: forks, pull requests, and code reviews.
 - Theory behind good branching practices and exploring trunk-based development.
 
