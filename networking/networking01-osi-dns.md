@@ -1,6 +1,6 @@
 # *2025-11-26* — Networking: OSI Model & DNS
 
-##OSI Model
+## OSI Model
 
 The OSI model is just a way to describe how data travels across a network.  
 Brief explanation of each layer:
